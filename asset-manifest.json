@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/youtube-clone/static/css/main.2cba4ac3.css",
+    "main.js": "/youtube-clone/static/js/main.4b61725a.js",
+    "static/media/cozy-logo.png": "/youtube-clone/static/media/cozy-logo.c020f24e64f605888a58.png",
+    "index.html": "/youtube-clone/index.html",
+    "main.2cba4ac3.css.map": "/youtube-clone/static/css/main.2cba4ac3.css.map",
+    "main.4b61725a.js.map": "/youtube-clone/static/js/main.4b61725a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cba4ac3.css",
+    "static/js/main.4b61725a.js"
+  ]
+}
